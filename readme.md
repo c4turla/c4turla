@@ -50,7 +50,7 @@ Tags: ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=c
 ### 📫 Connect with Me
 
 *   **Website:** [kendariweb.com](https://kendariweb.com)
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/catur-riyono-398a1b5a/)
+*   **Email:** [catur.crh@gmail.com](catur.crh@gmail.com)
 
 "Building secure, scalable, and impactful technology."
